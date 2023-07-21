@@ -1,0 +1,153 @@
+04 Jul 2023 - 16:56:58.145 [main] INFO  c.e.servicetest.EmployeeServiceTest - Starting EmployeeServiceTest using Java 17.0.4 on Shawin with PID 4236 (started by win10 in C:\Users\win10\Documents\workspace-spring-tool-suite-4-4.15.3.RELEASE\EMS)
+04 Jul 2023 - 16:56:58.167 [main] INFO  c.e.servicetest.EmployeeServiceTest - No active profile set, falling back to 1 default profile: "default"
+04 Jul 2023 - 16:57:01.556 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+04 Jul 2023 - 16:57:01.835 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 246 ms. Found 4 JPA repository interfaces.
+04 Jul 2023 - 16:57:06.354 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+04 Jul 2023 - 16:57:06.657 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+04 Jul 2023 - 16:57:06.840 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+04 Jul 2023 - 16:57:07.560 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+04 Jul 2023 - 16:57:08.856 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+04 Jul 2023 - 16:57:08.943 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+04 Jul 2023 - 16:57:13.072 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+04 Jul 2023 - 16:57:13.109 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+04 Jul 2023 - 16:57:16.167 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+04 Jul 2023 - 16:57:18.460 [main] INFO  c.e.servicetest.EmployeeServiceTest - Started EmployeeServiceTest in 21.759 seconds (JVM running for 28.071)
+04 Jul 2023 - 16:57:19.077 [main] INFO  com.ems.entity.Employee - New employee details Employee(empName=Heena, salary=30000.0, contact=9874653298, email=heena@gmail.com, designation=Developer, doj=2023-08-20, dept=null) saved at Tue Jul 04 16:57:19 IST 2023
+04 Jul 2023 - 16:57:19.792 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+04 Jul 2023 - 16:57:19.801 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+04 Jul 2023 - 16:57:19.862 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+04 Jul 2023 - 17:00:26.030 [main] INFO  c.e.servicetest.EmployeeServiceTest - Starting EmployeeServiceTest using Java 17.0.4 on Shawin with PID 11188 (started by win10 in C:\Users\win10\Documents\workspace-spring-tool-suite-4-4.15.3.RELEASE\EMS)
+04 Jul 2023 - 17:00:26.038 [main] INFO  c.e.servicetest.EmployeeServiceTest - No active profile set, falling back to 1 default profile: "default"
+04 Jul 2023 - 17:00:29.309 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+04 Jul 2023 - 17:00:29.607 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 252 ms. Found 4 JPA repository interfaces.
+04 Jul 2023 - 17:00:34.773 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+04 Jul 2023 - 17:00:35.029 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+04 Jul 2023 - 17:00:35.272 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+04 Jul 2023 - 17:00:36.174 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+04 Jul 2023 - 17:00:37.693 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+04 Jul 2023 - 17:00:37.785 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+04 Jul 2023 - 17:00:41.023 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+04 Jul 2023 - 17:00:41.062 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+04 Jul 2023 - 17:00:44.841 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+04 Jul 2023 - 17:00:47.707 [main] INFO  c.e.servicetest.EmployeeServiceTest - Started EmployeeServiceTest in 22.95 seconds (JVM running for 26.698)
+04 Jul 2023 - 17:00:48.094 [main] INFO  com.ems.entity.Employee - New employee details Employee(empName=Heena, salary=30000.0, contact=9874653298, email=heena@gmail.com, designation=Developer, doj=2023-08-20, dept=null) saved at Tue Jul 04 17:00:48 IST 2023
+04 Jul 2023 - 17:00:48.564 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+04 Jul 2023 - 17:00:48.573 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+04 Jul 2023 - 17:00:48.644 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+04 Jul 2023 - 17:02:07.764 [main] INFO  c.e.servicetest.EmployeeServiceTest - Starting EmployeeServiceTest using Java 17.0.4 on Shawin with PID 4980 (started by win10 in C:\Users\win10\Documents\workspace-spring-tool-suite-4-4.15.3.RELEASE\EMS)
+04 Jul 2023 - 17:02:07.770 [main] INFO  c.e.servicetest.EmployeeServiceTest - No active profile set, falling back to 1 default profile: "default"
+04 Jul 2023 - 17:02:10.668 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+04 Jul 2023 - 17:02:10.885 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 188 ms. Found 4 JPA repository interfaces.
+04 Jul 2023 - 17:02:14.200 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+04 Jul 2023 - 17:02:14.409 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+04 Jul 2023 - 17:02:14.563 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+04 Jul 2023 - 17:02:15.202 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+04 Jul 2023 - 17:02:16.409 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+04 Jul 2023 - 17:02:16.466 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+04 Jul 2023 - 17:02:18.977 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+04 Jul 2023 - 17:02:19.013 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+04 Jul 2023 - 17:02:21.388 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+04 Jul 2023 - 17:02:23.365 [main] INFO  c.e.servicetest.EmployeeServiceTest - Started EmployeeServiceTest in 16.711 seconds (JVM running for 20.842)
+04 Jul 2023 - 17:02:23.853 [main] INFO  com.ems.entity.Employee - New employee details Employee(empName=Heena, salary=30000.0, contact=9874653298, email=heena@gmail.com, designation=Developer, doj=2023-08-20, dept=null) saved at Tue Jul 04 17:02:23 IST 2023
+04 Jul 2023 - 17:02:24.025 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+04 Jul 2023 - 17:02:24.047 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+04 Jul 2023 - 17:02:24.110 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+04 Jul 2023 - 17:11:00.067 [main] INFO  c.e.servicetest.EmployeeServiceTest - Starting EmployeeServiceTest using Java 17.0.4 on Shawin with PID 8152 (started by win10 in C:\Users\win10\Documents\workspace-spring-tool-suite-4-4.15.3.RELEASE\EMS)
+04 Jul 2023 - 17:11:00.077 [main] INFO  c.e.servicetest.EmployeeServiceTest - No active profile set, falling back to 1 default profile: "default"
+04 Jul 2023 - 17:11:02.807 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+04 Jul 2023 - 17:11:03.071 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 232 ms. Found 4 JPA repository interfaces.
+04 Jul 2023 - 17:11:06.674 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+04 Jul 2023 - 17:11:06.865 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+04 Jul 2023 - 17:11:07.001 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+04 Jul 2023 - 17:11:07.587 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+04 Jul 2023 - 17:11:08.758 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+04 Jul 2023 - 17:11:08.816 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+04 Jul 2023 - 17:11:11.241 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+04 Jul 2023 - 17:11:11.280 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+04 Jul 2023 - 17:11:13.275 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+04 Jul 2023 - 17:11:15.947 [main] INFO  c.e.servicetest.EmployeeServiceTest - Started EmployeeServiceTest in 17.164 seconds (JVM running for 21.938)
+04 Jul 2023 - 17:11:16.296 [main] INFO  com.ems.entity.Employee - New employee details Employee(empName=Heena, salary=30000.0, contact=9874653298, email=heena@gmail.com, designation=Developer, doj=2023-08-20, dept=null) saved at Tue Jul 04 17:11:16 IST 2023
+04 Jul 2023 - 17:11:16.415 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+04 Jul 2023 - 17:11:16.423 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+04 Jul 2023 - 17:11:16.565 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+04 Jul 2023 - 17:13:33.177 [main] INFO  c.e.servicetest.EmployeeServiceTest - Starting EmployeeServiceTest using Java 17.0.4 on Shawin with PID 3976 (started by win10 in C:\Users\win10\Documents\workspace-spring-tool-suite-4-4.15.3.RELEASE\EMS)
+04 Jul 2023 - 17:13:33.182 [main] INFO  c.e.servicetest.EmployeeServiceTest - No active profile set, falling back to 1 default profile: "default"
+04 Jul 2023 - 17:13:36.286 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+04 Jul 2023 - 17:13:36.533 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 220 ms. Found 4 JPA repository interfaces.
+04 Jul 2023 - 17:13:39.955 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+04 Jul 2023 - 17:13:40.174 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+04 Jul 2023 - 17:13:40.378 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+04 Jul 2023 - 17:13:41.178 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+04 Jul 2023 - 17:13:42.274 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+04 Jul 2023 - 17:13:42.344 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+04 Jul 2023 - 17:13:44.981 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+04 Jul 2023 - 17:13:45.031 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+04 Jul 2023 - 17:13:46.954 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+04 Jul 2023 - 17:13:48.852 [main] INFO  c.e.servicetest.EmployeeServiceTest - Started EmployeeServiceTest in 16.951 seconds (JVM running for 22.095)
+04 Jul 2023 - 17:13:49.197 [main] INFO  com.ems.entity.Employee - New employee details Employee(empName=Heena, salary=30000.0, contact=9874653298, email=heena@gmail.com, designation=Developer, doj=2023-08-20, dept=null) saved at Tue Jul 04 17:13:49 IST 2023
+04 Jul 2023 - 17:13:49.309 [main] INFO  com.ems.entity.Employee - Employee details with id 0 was fetched at Tue Jul 04 17:13:49 IST 2023
+04 Jul 2023 - 17:13:49.687 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+04 Jul 2023 - 17:13:49.734 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+04 Jul 2023 - 17:13:49.784 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+04 Jul 2023 - 17:17:22.655 [main] INFO  c.e.servicetest.EmployeeServiceTest - Starting EmployeeServiceTest using Java 17.0.4 on Shawin with PID 6512 (started by win10 in C:\Users\win10\Documents\workspace-spring-tool-suite-4-4.15.3.RELEASE\EMS)
+04 Jul 2023 - 17:17:22.658 [main] INFO  c.e.servicetest.EmployeeServiceTest - No active profile set, falling back to 1 default profile: "default"
+04 Jul 2023 - 17:17:25.687 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+04 Jul 2023 - 17:17:25.937 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 221 ms. Found 4 JPA repository interfaces.
+04 Jul 2023 - 17:17:29.437 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+04 Jul 2023 - 17:17:29.707 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+04 Jul 2023 - 17:17:29.855 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+04 Jul 2023 - 17:17:30.534 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+04 Jul 2023 - 17:17:31.706 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+04 Jul 2023 - 17:17:31.759 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+04 Jul 2023 - 17:17:35.820 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+04 Jul 2023 - 17:17:35.858 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+04 Jul 2023 - 17:17:39.968 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+04 Jul 2023 - 17:17:44.884 [main] INFO  c.e.servicetest.EmployeeServiceTest - Started EmployeeServiceTest in 23.468 seconds (JVM running for 27.735)
+04 Jul 2023 - 17:17:45.363 [main] INFO  com.ems.entity.Employee - New employee details Employee(empName=Heena, salary=30000.0, contact=9874653298, email=heena@gmail.com, designation=Developer, doj=2023-08-20, dept=null) saved at Tue Jul 04 17:17:45 IST 2023
+04 Jul 2023 - 17:17:45.512 [main] INFO  com.ems.entity.Employee - Employee details with id 0 was fetched at Tue Jul 04 17:17:45 IST 2023
+04 Jul 2023 - 17:17:45.755 [main] INFO  com.ems.entity.Employee - Employee details with id 0 was fetched at Tue Jul 04 17:17:45 IST 2023
+04 Jul 2023 - 17:17:45.865 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+04 Jul 2023 - 17:17:45.876 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+04 Jul 2023 - 17:17:45.927 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+04 Jul 2023 - 18:21:22.248 [main] INFO  c.e.servicetest.EmployeeServiceTest - Starting EmployeeServiceTest using Java 17.0.4 on Shawin with PID 11880 (started by win10 in C:\Users\win10\Documents\workspace-spring-tool-suite-4-4.15.3.RELEASE\EMS)
+04 Jul 2023 - 18:21:22.254 [main] INFO  c.e.servicetest.EmployeeServiceTest - No active profile set, falling back to 1 default profile: "default"
+04 Jul 2023 - 18:21:25.123 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+04 Jul 2023 - 18:21:25.506 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 342 ms. Found 4 JPA repository interfaces.
+04 Jul 2023 - 18:21:30.693 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+04 Jul 2023 - 18:21:31.029 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+04 Jul 2023 - 18:21:31.244 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+04 Jul 2023 - 18:21:32.057 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+04 Jul 2023 - 18:21:33.398 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+04 Jul 2023 - 18:21:33.493 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+04 Jul 2023 - 18:21:36.955 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+04 Jul 2023 - 18:21:36.993 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+04 Jul 2023 - 18:21:40.201 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+04 Jul 2023 - 18:21:42.751 [main] INFO  c.e.servicetest.EmployeeServiceTest - Started EmployeeServiceTest in 22.226 seconds (JVM running for 27.107)
+04 Jul 2023 - 18:21:43.488 [main] INFO  com.ems.entity.Employee - New employee details Employee(empName=Heena, salary=30000.0, contact=9874653298, email=heena@gmail.com, designation=Developer, doj=2023-08-20, dept=null) saved at Tue Jul 04 18:21:43 IST 2023
+04 Jul 2023 - 18:21:43.650 [main] INFO  com.ems.entity.Employee - Employee details with id 0 was fetched at Tue Jul 04 18:21:43 IST 2023
+04 Jul 2023 - 18:21:44.041 [main] INFO  com.ems.entity.Employee - Employee with id 0 has been updated to Employee(empName=Heena Nadaf, salary=30000.0, contact=9874653298, email=heena@gmail.com, designation=Developer, doj=2023-08-20, dept=null)
+04 Jul 2023 - 18:21:44.066 [main] INFO  com.ems.entity.Employee - Employee details with id 0 was fetched at Tue Jul 04 18:21:44 IST 2023
+04 Jul 2023 - 18:21:44.193 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+04 Jul 2023 - 18:21:44.200 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+04 Jul 2023 - 18:21:44.274 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+04 Jul 2023 - 18:22:15.472 [main] INFO  c.e.servicetest.EmployeeServiceTest - Starting EmployeeServiceTest using Java 17.0.4 on Shawin with PID 11956 (started by win10 in C:\Users\win10\Documents\workspace-spring-tool-suite-4-4.15.3.RELEASE\EMS)
+04 Jul 2023 - 18:22:15.476 [main] INFO  c.e.servicetest.EmployeeServiceTest - No active profile set, falling back to 1 default profile: "default"
+04 Jul 2023 - 18:22:18.820 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+04 Jul 2023 - 18:22:19.161 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 286 ms. Found 4 JPA repository interfaces.
+04 Jul 2023 - 18:22:24.007 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+04 Jul 2023 - 18:22:24.316 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+04 Jul 2023 - 18:22:24.491 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+04 Jul 2023 - 18:22:25.298 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+04 Jul 2023 - 18:22:26.726 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+04 Jul 2023 - 18:22:26.791 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+04 Jul 2023 - 18:22:29.552 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+04 Jul 2023 - 18:22:29.587 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+04 Jul 2023 - 18:22:34.258 [main] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+04 Jul 2023 - 18:22:37.786 [main] INFO  c.e.servicetest.EmployeeServiceTest - Started EmployeeServiceTest in 24.013 seconds (JVM running for 28.55)
+04 Jul 2023 - 18:22:38.148 [main] INFO  com.ems.entity.Employee - New employee details Employee(empName=Heena, salary=30000.0, contact=9874653298, email=heena@gmail.com, designation=Developer, doj=2023-08-20, dept=null) saved at Tue Jul 04 18:22:38 IST 2023
+04 Jul 2023 - 18:22:38.347 [main] INFO  com.ems.entity.Employee - Employee details with id 0 was fetched at Tue Jul 04 18:22:38 IST 2023
+04 Jul 2023 - 18:22:38.529 [main] INFO  com.ems.entity.Employee - Employee with id 0 has been updated to Employee(empName=Heena Nadaf, salary=30000.0, contact=9874653298, email=heena@gmail.com, designation=Developer, doj=2023-08-20, dept=null)
+04 Jul 2023 - 18:22:38.579 [main] INFO  com.ems.entity.Employee - Employee details with id 0 was fetched at Tue Jul 04 18:22:38 IST 2023
+04 Jul 2023 - 18:22:38.717 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+04 Jul 2023 - 18:22:38.727 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+04 Jul 2023 - 18:22:38.791 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
